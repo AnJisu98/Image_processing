@@ -1,6 +1,5 @@
 # 고전적인 image processing 실습
 
-----------------------
 
 ### 1. Point Transformation
 
@@ -17,6 +16,10 @@
 
 
 
+
+
+
+
 ### 2. Geometric Transformation
 
 > Scaling(확대, 축소)
@@ -26,6 +29,10 @@
 
 
 > +) Interpolation(Nearest neighbor, Bilinear, Cubic, B-spline)
+
+
+
+
 
 
 
@@ -50,6 +57,10 @@
 
 
 > LoG(Laplacian of Gaussian)
+
+
+
+
 
 
 
